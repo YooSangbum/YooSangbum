@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fcfce8&height=350&section=header&text=Hello%20Hello&desc=YooSangbum's%20GitHub&fontSize=120&descAlign=75&descAlignY=68&animation=fadeIn1.2s&fontColor=4776b4">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fcfce8&height=300&section=header&text=Hello%20Hello&desc=YooSangbum's%20GitHub&fontSize=120&descAlign=75&descAlignY=68&animation=fadeIn1.2s&fontColor=4776b4">
 
 
 ### Hi there 👋
