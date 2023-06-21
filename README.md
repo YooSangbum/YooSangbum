@@ -3,23 +3,49 @@
 </div>
 
 <div align='center'>
-  <p>Hi- 👋 </p>
+  <p>👋 안녕하세요. 유상범입니다. </p>
 </div>
-<div >
-   <h3 align=center>🌱 I’m currently learning </h3>
-   <br />
-  <div width=100>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
-   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" />
-   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+<br/>
+<div>
+   <p align='center'>🌱 I’m currently learning </p>
+  <div align='center'>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> 
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
   </div>
+  <div align='center'>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
+   <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Node.js-339933?style=flate&logo=Node.js&logoColor=white">
+  </div>
+   <div align='center'>
+   <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+  </div>
+  <br/>
+  <br/>
+
+<div align=center>
+  <p>🔭 I’m currently working on</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <br/>
+	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Illustration-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</div>
+
+
+  
 <!--
 **YooSangbum/YooSangbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
